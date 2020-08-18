@@ -11,3 +11,11 @@ font-size:1rem;
 font-family: helvetica, arial, sans-serif;
 color: #41444b;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+  }
