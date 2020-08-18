@@ -1,11 +1,13 @@
 h1{
-    font-size: 100;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: purple;
+    color: #ffaa71;
     }
 
-    ol{
-        color:orange;
-    }
-
-body{background-color: green;}
+body{
+    background-color:#f6f4e6;
+font-size:1rem;
+font-family: helvetica, arial, sans-serif;
+color: #41444b;
+}
