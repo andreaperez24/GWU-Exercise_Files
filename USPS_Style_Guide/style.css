@@ -2,6 +2,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 /* Header Styles */
+
+h1{
+    font-size: 32px;
+}
 .header{
     height: 250;
     max-height: 500px;
