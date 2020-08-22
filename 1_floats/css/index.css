@@ -1,5 +1,10 @@
+/* Exercise 1*/
 h1 {
  font-family: helvetica, arial, sans-serif;
+}
+body{
+    font-family: helvetica, arial, sans-serif;
+    font-size: 17px;
 }
 /* Write your selector for .left below */
 .left {
@@ -15,3 +20,82 @@ h1 {
 .separator {
     width: 750px;
 }
+
+/* Exercise 2 */
+
+.block_element {
+    width: 355px;
+    background-color: lightblue;
+    padding: 35px;
+  margin: 0 auto;
+  text-align: center;
+  }
+  
+  /* These styles are just used to create our mock get started form */
+  section {
+    background-color: grey;
+    padding: 25px;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  img {
+    width: 200px;
+  }
+  input {
+    display: block;
+    width: 100%;
+    padding: 4%;
+    -webkit-appearance: none;
+    /* max-width: 330px; */
+    box-sizing: border-box;
+  }
+  h3 {
+    margin: 10px 0px;
+  }
+  .submit {
+    margin-top: 20px;
+  }
+
+  /*Exercise 3 */
+  nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    padding: 15px;
+}
+ 
+  .left2 {
+      height: 500px;
+      float: left;
+      background-color: lightblue;
+      width: 30%;
+      text-align: center;
+
+  }
+
+  .right2 {
+    height: 500px;
+    float: left;
+    background-color: lightgreen;
+    width: 70%;
+    text-align: center;
+  }
+
+  .card {
+      display: inline-block;
+      background-color: #C6C6C6;
+      border-radius: 5px;
+      height: 200px;
+      width: 150px;
+      margin: 35px;
+      margin-top: 50px;
+
+  }
+ 
+
+ 
