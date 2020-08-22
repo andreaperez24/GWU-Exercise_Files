@@ -4,12 +4,12 @@ h1 {
 /* Write your selector for .left below */
 .left {
     float: right;
-    padding-right: 15px;
+    padding-left: 15px;
 }
 /* Write your selector for .right below */
 .right {
     float: left;
-    padding-left: 15px;
+    padding-right: 15px;
 }
 /* Write your selector for .separator below */
 .separator {
